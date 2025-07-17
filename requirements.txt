@@ -1,0 +1,8 @@
+langchain
+chromadb
+sentence-transformers
+beautifulsoup4
+requests
+fastapi
+uvicorn
+ollama
